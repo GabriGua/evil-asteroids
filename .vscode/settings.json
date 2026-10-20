@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\dev\\tools\\w64devkit\\bin;${env:PATH}"
+  }
+}
